@@ -41,10 +41,11 @@
 ### 📺 Checkout Mine and My Sister's Cover Song Videos (Only if Coding allows u to take breaks :joy:)
 
 <!-- YOUTUBE:START -->
-- [CLOSER](https://www.youtube.com/watch?v=nur4Tw-ndsU)
-- [CHAL BOMBAY](https://www.youtube.com/watch?v=QjeWXqP5yKQ)
-- [I DON'T CARE](https://www.youtube.com/watch?v=fMfljM34ZwA&list=PLkxdencO42i-jGblk8a4uejE-Pmww1B18&index=2)
-
+- [YOU BELONG WITH ME | COVER BY PREKSHA DUTTA | TAYLOR SWIFT | 🎧](https://www.youtube.com/watch?v=Jf1K2LbaQbM)
+- [LEVITATING | COVER BY PREKSHA DUTTA | DUA LIPA | 🎧](https://www.youtube.com/watch?v=JB_zCmTqMfk)
+- [WOLVES | COVER BY PREKSHA DUTTA | SELENA GOMEZ, MARSHMELLO](https://www.youtube.com/watch?v=lyHsdF5qo4I)
+- [CHAL BOMBAY | COVER BY PRASUN DUTTA | DIVINE | INDIAN RAP](https://www.youtube.com/watch?v=QjeWXqP5yKQ)
+- [CLOSER | Cover by Preksha & Prasun | The Chainsmokers | Halsey | 🎧](https://www.youtube.com/watch?v=nur4Tw-ndsU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCy5QJ0BLGOPfFxtgvg10MrQ)
