@@ -38,7 +38,7 @@
 
 ---
 
-### 📺 Checkout My Cover Song Videos (Only if Coding allows u to take breaks :joy:)
+### 📺 Checkout My Cover Song Videos (Only If Coding Allows U To Take Breaks :joy:)
 
 <!-- YOUTUBE:START -->
 - [YOU BELONG WITH ME | COVER BY PREKSHA DUTTA | TAYLOR SWIFT | 🎧](https://www.youtube.com/watch?v=Jf1K2LbaQbM)
