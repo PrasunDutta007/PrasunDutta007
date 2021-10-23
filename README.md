@@ -38,7 +38,7 @@
 
 ---
 
-### 📺 Checkout Mine and My Sister's Cover Song Videos (Only if Coding allows u to take breaks :joy:)
+### 📺 Checkout My Cover Song Videos (Only if Coding allows u to take breaks :joy:)
 
 <!-- YOUTUBE:START -->
 - [CLOSER](https://www.youtube.com/watch?v=nur4Tw-ndsU)
