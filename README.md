@@ -40,13 +40,9 @@
 
 ### 📺 Checkout My Cover Song Videos (Only If Coding Allows U To Take Breaks :joy:)
 
-<!-- YOUTUBE:START -->
-- [YOU BELONG WITH ME | COVER BY PREKSHA DUTTA | TAYLOR SWIFT | 🎧](https://www.youtube.com/watch?v=Jf1K2LbaQbM)
-- [LEVITATING | COVER BY PREKSHA DUTTA | DUA LIPA | 🎧](https://www.youtube.com/watch?v=JB_zCmTqMfk)
-- [WOLVES | COVER BY PREKSHA DUTTA | SELENA GOMEZ, MARSHMELLO](https://www.youtube.com/watch?v=lyHsdF5qo4I)
 - [CHAL BOMBAY | COVER BY PRASUN DUTTA | DIVINE | INDIAN RAP](https://www.youtube.com/watch?v=QjeWXqP5yKQ)
 - [CLOSER | Cover by Preksha & Prasun | The Chainsmokers | Halsey | 🎧](https://www.youtube.com/watch?v=nur4Tw-ndsU)
-<!-- YOUTUBE:END -->
+
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCy5QJ0BLGOPfFxtgvg10MrQ)
 
