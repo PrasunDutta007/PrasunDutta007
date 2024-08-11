@@ -7,7 +7,7 @@
 
 - 	:books: I’m currently learning everything 🤣
 - 👯 I’m Looking to Collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source Projects
+- 🥅 2024-2025 Goals: Completing Masters on a good note
 - 	:grin: Fun fact: I love to :microphone: and play 	:badminton:
 
 ### Connect with me:
