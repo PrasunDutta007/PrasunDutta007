@@ -5,7 +5,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PrasunJeetDutta)
 ## I'm a Student, Coder, Developer, and love creating Content!!
 
-- 	:books: I’m currently learning everything 🤣
+- 	:books: I’m currently learning everything ^_^
 - 🥅 2024-2025 Goals: Completing Masters on a good note
 - 	:grin: Fun fact: I love to :microphone: and play 	:badminton:
 
