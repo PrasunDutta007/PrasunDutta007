@@ -36,10 +36,13 @@
 
 ---
 
-### 📺 Checkout My Cover Song Videos (Only If Coding Allows U To Take Breaks :joy:)
+### 📺 Checkout My Cover Song/Dance Vids (Only If Coding Allows U To Take Breaks :joy:)
 
+- [JAILHOUSE ROCK | DANCE BY PRASUN DUTTA | ELVIS PRESLEY](https://www.youtube.com/watch?v=224Z6kzsp7E)
+- [BILLIE JEAN | PRASUN DUTTA | INTERNATIONAL KARAOKE NIGHT](https://www.youtube.com/watch?v=Tuf_-3EQtfA)
 - [CHAL BOMBAY | COVER BY PRASUN DUTTA | DIVINE | INDIAN RAP](https://www.youtube.com/watch?v=QjeWXqP5yKQ)
 - [CLOSER | Cover by Preksha & Prasun | The Chainsmokers | Halsey | 🎧](https://www.youtube.com/watch?v=nur4Tw-ndsU)
+
 
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCy5QJ0BLGOPfFxtgvg10MrQ)
