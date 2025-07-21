@@ -6,7 +6,7 @@
 ## I'm a Student, Coder, Developer, and love creating Content!!
 
 - 	:books: I’m currently learning everything ^_^
-- 🥅 2024-2025 Goals: Completing Masters on a good note
+- 🥅 2025-2026 Goals: Completing Masters on a good note
 - 	:grin: Fun fact: I love to :microphone: and play 	:badminton:
 
 ### Connect with me:
