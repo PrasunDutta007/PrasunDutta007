@@ -36,7 +36,7 @@
 
 ---
 
-### 📺 Checkout My Cover Song/Dance Vids (Only If Coding Allows U To Take Breaks :joy:)
+### 📺 Checkout My Cover Song/Dance Vids (life outside coding world :joy:)
 
 - [JAILHOUSE ROCK | DANCE BY PRASUN DUTTA | ELVIS PRESLEY](https://www.youtube.com/watch?v=224Z6kzsp7E)
 - [BILLIE JEAN | PRASUN DUTTA | INTERNATIONAL KARAOKE NIGHT](https://www.youtube.com/watch?v=Tuf_-3EQtfA)
