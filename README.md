@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="data_engineering_banner.svg" alt="Data Engineering Banner" width="100%"/>
+</div>
+
 # Hi, I'm Prasun Dutta 👋
 
 **Data Engineer & AI Systems Builder** · MSc Student @ University of Bonn 🇩🇪
