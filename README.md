@@ -57,12 +57,13 @@ I build end-to-end data pipelines and AI-powered systems - from real-time Kafka 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasunDutta007&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasunDutta007&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasunDutta007/PrasunDutta007/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasunDutta007/PrasunDutta007/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PrasunDutta007/PrasunDutta007/output/github-snake.svg"/>
+</picture>
 
 ---
 
