@@ -1,69 +1,79 @@
-### Hi Folks, I'm Prasun - aka [AiCoD]👋
+# Hi, I'm Prasun Dutta 👋
 
+**Data Engineer & AI Systems Builder** · MSc Student @ University of Bonn 🇩🇪
 
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasun-dutta-a35a32150/)
-[![Instagram Follow](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PrasunJeetDutta)
-## I'm a Student, Coder, Developer, and love creating Content!!
-
-- 	:books: I’m currently learning everything ^_^
-- 🥅 2025-2026 Goals: Completing Masters on a good note
-- 	:grin: Fun fact: I love to :microphone: and play 	:badminton:
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][java]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />][C]
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][C#]
-[<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />][Unity]
-<br />
-<br />
+I build end-to-end data pipelines and AI-powered systems - from real-time Kafka streams and Spark processing to LLM agents with LangChain and MCP. Currently deepening my expertise in Data Engineering Pipelines and Applied AI during my Masters.
 
 ---
 
-### 📺 Checkout My Cover Song/Dance Vids (life outside coding world :joy:)
+## 🔧 Tech Stack
 
-- [JAILHOUSE ROCK | DANCE BY PRASUN DUTTA | ELVIS PRESLEY](https://www.youtube.com/watch?v=224Z6kzsp7E)
-- [BILLIE JEAN | PRASUN DUTTA | INTERNATIONAL KARAOKE NIGHT](https://www.youtube.com/watch?v=Tuf_-3EQtfA)
-- [CHAL BOMBAY | COVER BY PRASUN DUTTA | DIVINE | INDIAN RAP](https://www.youtube.com/watch?v=QjeWXqP5yKQ)
-- [CLOSER | Cover by Preksha & Prasun | The Chainsmokers | Halsey | 🎧](https://www.youtube.com/watch?v=nur4Tw-ndsU)
+**Data Engineering**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
+**AI & LLM**
 
-➡️ [more videos...](https://www.youtube.com/channel/UCy5QJ0BLGOPfFxtgvg10MrQ)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B48FF?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-00C853?style=flat-square&logoColor=white)
 
-### Github Stats:
+**Cloud**
 
-<!-- STATS:START -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasunDutta007)](https://github.com/anuraghazra/github-readme-stats)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
 
-[youtube]: https://www.youtube.com/channel/UCy5QJ0BLGOPfFxtgvg10MrQ
-[linkedin]: https://www.linkedin.com/in/prasun-dutta-a35a32150/
-[vscode]: https://code.visualstudio.com/
-[html]: https://www.w3schools.com/html/
-[css]: https://www.w3schools.com/css/
-[javascript]: https://www.w3schools.com/js/
-[sql]: https://www.w3schools.com/sql/
-[mysql]: https://www.mysql.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[java]:https://www.java.com/en/
-[python]: https://www.python.org/
-[C]: https://www.programiz.com/c-programming
-[C#]: https://www.w3schools.com/cs/index.php
-[Unity]: https://unity.com/
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 [Stock Market Data Pipeline](https://github.com/PrasunDutta007/Stock-Market-Datapipeline)
+> End-to-end production-grade pipeline ingesting real-time and historical stock data via AlphaVantage through dual batch and streaming architectures.
+
+- **Batch**: AlphaVantage → Kafka → MinIO → Spark → Snowflake (Airflow orchestrated, daily schedule)
+- **Streaming**: AlphaVantage → Kafka → MinIO → Spark Structured Streaming (15-min / 1-hr rolling windows)
+- Built with: `Apache Kafka` `Apache Spark` `Apache Airflow` `Snowflake` `MinIO` `Docker Compose`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrasunDutta007&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasunDutta007&layout=compact&hide_border=true&theme=default" height="150"/>
+</p>
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasun-dutta-a35a32150/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/PrasunJeetDutta)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCy5QJ0BLGOPfFxtgvg10MrQ)
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PrasunDutta007&style=flat-square&color=blue" alt="profile views"/>
+</p>
