@@ -5,9 +5,9 @@
 
 # Hi, I'm Prasun Dutta 👋
 
-**Data Engineer & AI Systems Builder** · MSc Student @ University of Bonn 🇩🇪
+**Data Engineer** · MSc Student @ University of Bonn 🇩🇪
 
-I build end-to-end data pipelines and AI-powered systems - from real-time Kafka streams and Spark processing to LLM agents with LangChain and MCP. Currently deepening my expertise in Data Engineering Pipelines and Applied AI during my Masters.
+I design and build end-to-end data pipelines - Spark processing, Airflow orchestration, and Snowflake warehousing, Real-time Kafka streams. Beyond the pipeline, I am exploring building LLM agents with LangGraph, RAG systems, and MCP integrations. Currently deepening my expertise in Data Engineering and Applied AI at Masters level.
 
 ---
 
