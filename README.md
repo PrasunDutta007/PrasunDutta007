@@ -7,7 +7,7 @@
 
 **Data Engineer** · MSc Student @ University of Bonn 🇩🇪
 
-I design and build end-to-end data pipelines - Spark processing, Airflow orchestration, and Snowflake warehousing, Real-time Kafka streams. Beyond the pipeline, I am exploring building LLM agents with LangGraph, RAG systems, and MCP integrations. Currently deepening my expertise in Data Engineering and Applied AI at Masters level.
+I design and build end-to-end data pipelines - Spark processing, Airflow orchestration and Snowflake warehousing across Azure, AWS and Microsoft Fabric. On top of that, I am exploring building LLM agents with LangGraph, RAG systems, and MCP integrations. Currently deepening my expertise in Data Engineering and Applied AI at Masters level.
 
 ---
 
