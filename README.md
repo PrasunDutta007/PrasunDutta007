@@ -63,6 +63,15 @@ I design and build end-to-end data pipelines - Spark processing, Airflow orchest
 
 ---
 
+### 🏠 [Airbnb Data Pipeline (dbt)](https://github.com/PrasunDutta007/Airbnb-Datapipeline-dbt)
+> Airbnb data pipeline using AWS S3, Snowflake, and dbt-core. Raw CSVs are staged into Snowflake and transformed through a Bronze→Silver→Gold medallion architecture with incremental loads, Jinja-driven OBT, SCD Type 2 snapshots, star schema, custom macros, and data quality tests.
+ 
+- **Ingestion**: AWS S3 (CSV) → Snowflake External Stage → `COPY INTO` Staging
+- **Transformation**: Bronze (raw incremental) → Silver (cleansed + macros) → Gold (OBT + Ephemeral + Snapshots + Fact)
+- Built with: `dbt-core` `Snowflake` `AWS S3` `Python 3.12` `uv`
+  
+---
+
 ## 📊 GitHub Activity
 
 <picture>
