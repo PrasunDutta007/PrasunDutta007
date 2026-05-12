@@ -54,6 +54,16 @@ I design and build end-to-end data pipelines - Spark processing, Airflow orchest
 
 ## 🚀 Featured Projects
 
+### 🎵 [Spotify Data Pipeline (Azure)](https://github.com/PrasunDutta007/Spotify-Datapipeline-Azure)
+> End-to-end cloud data pipeline ingesting Spotify streaming data from SQL into a Bronze→Silver→Gold medallion architecture on Azure, with Databricks AutoLoader, Delta Live Tables, and SCD Type 1 & 2 served via Unity Catalog.
+ 
+- **Ingestion**: SQL DB → Azure Data Factory (incremental CDC load) → Azure Data Lake (Bronze, Parquet)
+- **Silver**: Databricks AutoLoader (Spark Structured Streaming) → cleansed Delta tables (dedup, transformations, duration flags)
+- **Gold**: Delta Live Tables (DLT) → SCD Type 1 & 2 CDC flows → Unity Catalog gold layer (star schema)
+- Built with: `Azure Data Factory` `Azure Data Lake` `Databricks` `Apache Spark` `Delta Live Tables` `Azure Key Vault` `Logic Apps`
+
+---
+
 ### 📈 [Stock Market Data Pipeline](https://github.com/PrasunDutta007/Stock-Market-Datapipeline)
 > End-to-end production-grade pipeline ingesting real-time and historical stock data via AlphaVantage through dual batch and streaming architectures.
 
