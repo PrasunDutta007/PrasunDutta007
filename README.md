@@ -82,6 +82,15 @@ I design and build end-to-end data pipelines - Spark processing, Airflow orchest
   
 ---
 
+### 🤖 [Proxy-Meet: Intelligent Meeting Automation](https://github.com/PrasunDutta007/Proxy-Meet)
+> Intelligent meeting automation system that acts as your proxy in Zoom - joining via a streamed OBS avatar, detecting your name and responding via voice and chat, recording the full session, and running a seven-agent CrewAI pipeline to push structured notes to Notion and a Minutes of Meeting draft to Gmail.
+ 
+- **Meeting Bot**: Selenium-driven Zoom join → OBS virtual camera avatar → name detection → voice & chat auto-response → FFmpeg + VB-CABLE audio recording
+- **Post-Processing**: AssemblyAI + Gemini 2.5 Pro transcription (speaker diarization) → 7-agent CrewAI pipeline (analysis, action items, formatting, QA, strategy, curation, email composition)
+- **Delivery**: Dual-format structured notes → Notion database + Minutes of Meeting draft → Gmail | Streamlit post-meeting review dashboard
+- Built with: `CrewAI` `Google Gemini 2.5 Pro` `AssemblyAI` `Selenium` `OBS Studio` `Notion API` `Gmail API` `Streamlit`
+---
+
 ## 📊 GitHub Activity
 
 <picture>
