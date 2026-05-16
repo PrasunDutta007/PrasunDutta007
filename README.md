@@ -89,7 +89,7 @@ Learning to design and build end-to-end data pipelines - Spark processing, Airfl
 - **Ingestion**: ADLS Gen2 (CSV) → Fabric Pipeline (GetMetadata + ForEach, daily schedule) → Date-partitioned Landing zone
 - **Transformation**: Bronze (incremental Delta load) → Silver (dedup, null handling, business KPIs via MERGE) → Gold (Dim_student, Dim_course, Fact_student_performance)
 - **Analytics**: Gold Lakehouse → Fabric Semantic Model → Power BI dashboard (grades, completion rates, performance scores)
-- Built with: `Microsoft Fabric` `Azure Data Lake Gen2` `Apache Spark` `Delta Lake` `PySpark` `Power BI`
+- Built with: `Microsoft Fabric` `Azure Data Lake` `Apache Spark` `Delta Lake` `PySpark` `Power BI`
 
 ---
 
