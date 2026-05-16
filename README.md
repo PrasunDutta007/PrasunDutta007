@@ -83,6 +83,16 @@ Learning to design and build end-to-end data pipelines - Spark processing, Airfl
   
 ---
 
+### 🎓 [Learning Management System (LMS) Data Pipeline (Microsoft Fabric)](https://github.com/PrasunDutta007/Learning-Management-System-Datapipeline-Fabric)
+> End-to-end LMS data pipeline built on Microsoft Fabric. Daily CSV files flow through a Medallion Architecture (Raw → Landing → Bronze → Silver → Gold) via Fabric Pipelines and PySpark notebooks, building a star schema with incremental MERGE logic, and surfacing student performance analytics in a live Power BI dashboard.
+
+- **Ingestion**: ADLS Gen2 (CSV) → Fabric Pipeline (GetMetadata + ForEach, daily schedule) → Date-partitioned Landing zone
+- **Transformation**: Bronze (incremental Delta load) → Silver (dedup, null handling, business KPIs via MERGE) → Gold (Dim_student, Dim_course, Fact_student_performance)
+- **Analytics**: Gold Lakehouse → Fabric Semantic Model → Power BI dashboard (grades, completion rates, performance scores)
+- Built with: `Microsoft Fabric` `Azure Data Lake Gen2` `Apache Spark` `Delta Lake` `PySpark` `Power BI`
+
+---
+
 ### 🤖 [Proxy-Meet: Intelligent Meeting Automation](https://github.com/PrasunDutta007/Proxy-Meet)
 > Intelligent meeting automation system that acts as your proxy in Zoom - joining via a streamed OBS avatar, detecting your name and responding via voice and chat, recording the full session, and running a seven-agent CrewAI pipeline to push structured notes to Notion and a Minutes of Meeting draft to Gmail.
  
