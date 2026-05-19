@@ -55,13 +55,31 @@ Learning to design and build end-to-end data pipelines - Spark processing, Airfl
 
 ## 🚀 Featured Projects
 
-### 🎵 [Spotify Data Pipeline (Azure)](https://github.com/PrasunDutta007/Spotify-Datapipeline-Azure)
+### 🎵 Spotify Data Pipelines
+
+<details>
+<summary><b>View Projects</b></summary>
+
+#### ☁️ [Spotify Data Pipeline (Azure)](https://github.com/PrasunDutta007/Spotify-Datapipeline-Azure)
 > End-to-end cloud data pipeline ingesting Spotify streaming data from SQL into a Bronze→Silver→Gold medallion architecture on Azure, with Databricks AutoLoader, Delta Live Tables, and SCD Type 1 & 2 served via Unity Catalog.
- 
+
 - **Ingestion**: SQL DB → Azure Data Factory (incremental CDC load) → Azure Data Lake (Bronze, Parquet)
 - **Silver**: Databricks AutoLoader (Spark Structured Streaming) → cleansed Delta tables (dedup, transformations, duration flags)
 - **Gold**: Delta Live Tables (DLT) → SCD Type 1 & 2 CDC flows → Unity Catalog gold layer (star schema)
 - Built with: `Azure Data Factory` `Azure Data Lake` `Databricks` `Apache Spark` `Delta Live Tables` `Azure Key Vault` `Logic Apps`
+
+---
+
+#### 🟠 [Spotify Data Pipeline (AWS)](https://github.com/PrasunDutta007/Spotify-Datapipeline-AWS)
+> End-to-end pipeline extracting Spotify playlist data via AWS Lambda, transforming it with AWS Glue (PySpark), auto-ingesting into Snowflake via Snowpipe, and orchestrating the full flow with Apache Airflow on Docker.
+
+- **Extraction**: Spotify API → AWS Lambda (+ Spotipy Layer) → S3 raw JSON
+- **Transformation**: AWS Glue (PySpark) → albums / artists / songs CSVs → S3 transformed
+- **Loading**: Snowpipe (auto-ingest via SQS) → Snowflake tables
+- **Orchestration**: Apache Airflow (Docker Compose, CeleryExecutor) → daily DAG
+- Built with: `AWS Lambda` `AWS Glue` `Amazon S3` `Snowflake` `Apache Airflow` `Docker`
+
+</details>
 
 ---
 
