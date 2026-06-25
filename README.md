@@ -55,7 +55,7 @@ Learning to design and build end-to-end data pipelines - Spark processing, Airfl
 
 ## 🚀 Featured Projects
 
-### 🍽️ [Restaurant Data Pipeline (Azure + Databricks)](https://github.com/PrasunDutta007/Restaurant-Datapipeline-Databricks)
+### 🍽️ [Restaurant Data Pipeline (Databricks)](https://github.com/PrasunDutta007/Restaurant-Datapipeline-Databricks)
 > Production-grade, end-to-end lakehouse pipeline for a multi-city restaurant chain - ingesting real-time orders from Azure Event Hubs and batch operational data from Azure SQL via Databricks Lakeflow Connect (CDC), processing through a Bronze→Silver→Gold Medallion Architecture using Spark Declarative Pipelines, and delivering AI-enriched Gold tables with sentiment analysis via Mosaic AI, all governed through Unity Catalog.
  
 - **Streaming Ingestion**: Live orders → Azure Event Hubs (Kafka endpoint) → Spark Declarative Pipeline → `01_bronze.orders`
