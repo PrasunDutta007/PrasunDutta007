@@ -55,6 +55,16 @@ Learning to design and build end-to-end data pipelines - Spark processing, Airfl
 
 ## 🚀 Featured Projects
 
+### 🍽️ [Restaurant Data Pipeline (Azure + Databricks)](https://github.com/PrasunDutta007/Restaurant-Datapipeline-Databricks)
+> Production-grade, end-to-end lakehouse pipeline for a multi-city restaurant chain - ingesting real-time orders from Azure Event Hubs and batch operational data from Azure SQL via Databricks Lakeflow Connect (CDC), processing through a Bronze→Silver→Gold Medallion Architecture using Spark Declarative Pipelines, and delivering AI-enriched Gold tables with sentiment analysis via Mosaic AI, all governed through Unity Catalog.
+ 
+- **Streaming Ingestion**: Live orders → Azure Event Hubs (Kafka endpoint) → Spark Declarative Pipeline → `01_bronze.orders`
+- **Batch CDC Ingestion**: Azure SQL (customers, restaurants, menu_items, historical_orders, reviews) → Lakeflow Connect (Change Tracking + CDC) → `01_bronze`
+- **Silver**: Streaming transformations with `@dp.expect_all_or_drop` data quality, JSON array exploding (`fact_order_items`), and inline `ai_query('databricks-gpt-oss-20b', ...)` for review sentiment + issue classification via Mosaic AI
+- **Gold**: Materialized views — `d_sales_summary` (daily revenue), `d_customer_360` (loyalty tiers, favourite restaurant/item via Window functions), `d_restaurant_reviews` (AI sentiment aggregations)
+- Built with: `Azure Event Hubs` `Azure SQL` `Databricks Lakeflow Connect` `Spark Declarative Pipelines` `Mosaic AI` `Delta Lake` `Unity Catalog`
+---
+
 ### 🎵 [Spotify Data Pipeline v1 (Azure)](https://github.com/PrasunDutta007/Spotify-Datapipeline-Azure)
 > End-to-end cloud data pipeline ingesting Spotify streaming data from SQL into a Bronze→Silver→Gold medallion architecture on Azure, with Databricks AutoLoader, Delta Live Tables, and SCD Type 1 & 2 served via Unity Catalog.
 
