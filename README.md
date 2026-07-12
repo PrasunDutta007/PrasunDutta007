@@ -5,9 +5,9 @@
 
 # Hi, I'm Prasun Dutta 👋
 
-**Data Engineer** · MSc Computer Science @ University of Bonn 🇩🇪
+**Data Engineer** · **AI Engineer** · MSc Computer Science @ University of Bonn 🇩🇪
 
-Learning to design and build end-to-end data pipelines - Spark processing, Airflow orchestration and Snowflake warehousing across Azure, Microsoft Fabric & AWS. On top of that, I am exploring building LLM agents with LangGraph, RAG systems, and MCP integrations. Currently deepening my expertise in Data Engineering and Applied AI.
+Learning to design and build end-to-end data pipelines - Spark processing, Airflow orchestration and Snowflake warehousing across Azure, Microsoft Fabric & AWS. On top of that, I am exploring building AI agents with LangGraph, RAG systems, and MCP integrations. Currently deepening my expertise in Data Engineering and Applied AI.
 
 ---
 
